@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KooroshTorabi
 - 👀 I’m interested in Software Development, obviously open source Programming 
-- 🌱 I’m currently working on a project with NextJS, NestJS, Mongo 
+- 🌱 I’m currently working on a project with NextJS, NestJS, MongoDB
 - 💞️ I’m looking to collaborate on a company where grow up through the its project with smart idea. SMART work, not hard work
 - 📫 How to reach me? easy : kooroshtorabi@gmail.com
 
