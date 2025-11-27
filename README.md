@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Koorosh Torabi!
+# 👋 Hi, I'm Kourosh Torabijafroudi!
 
 ### 💻 Full-Stack JavaScript Developer | Building Scalable Web Applications
 
